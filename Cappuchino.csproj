@@ -369,8 +369,4 @@
       <HintPath>$(BepInExAssemblyPath)\WasmDisassembler.dll</HintPath>
     </Reference>
   </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Classes\" />
-  </ItemGroup>
 </Project>
